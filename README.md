@@ -1,1 +1,2 @@
-# LiDAR_Project1
+# LiDAR_Project
+## Segmentation of Instances from Unlabelled LiDAR Data
